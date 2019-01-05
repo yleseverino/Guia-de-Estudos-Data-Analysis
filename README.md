@@ -1,4 +1,4 @@
-# Learn_Data_Science_in_3_Months
+# Guia-de-Estudos-Data-Analysis
 
 #### Objetivo
 
