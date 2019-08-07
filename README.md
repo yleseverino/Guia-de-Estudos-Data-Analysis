@@ -5,7 +5,7 @@
 Este é o Curriculum de [Learn Data Science in 3 Months](https://youtu.be/9rDhY1P3YLA) de Siraj Raval no Youtube. Depois de concluir este curso, comece a se candidatar a vagas de emprego, faça um contrato, inicie seu próprio grupo de consultoria em ciências de dados ou simplesmente continue aprendendo. Lembre-se de acreditar na sua capacidade de aprender. Você pode aprender ciência de dados, você aprenderá ciência de dados, e se você mantiver isto, eventualmente você dominará isto.
 
 ## Encontre um amigo de estudo
-Participe do canal # DataSciencein3Meses no canal [Slack](http://wizards.herokuapp.com) para encontrar um.
+Participe do canal #DataSciencein3Months no canal [Slack](http://wizards.herokuapp.com) para encontrar um.
 
 #### Componentes
 - 3 Projectos
